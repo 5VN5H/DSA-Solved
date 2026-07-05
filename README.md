@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -45,6 +46,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
 ## Design
@@ -55,6 +57,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
