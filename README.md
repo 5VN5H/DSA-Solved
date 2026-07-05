@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
