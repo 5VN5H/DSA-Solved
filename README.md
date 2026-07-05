@@ -48,6 +48,7 @@
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -57,4 +58,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
