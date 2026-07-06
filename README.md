@@ -69,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
@@ -88,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
