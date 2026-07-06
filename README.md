@@ -93,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/5VN5H/DSA-Solved/tree/master/0796-rotate-string) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
