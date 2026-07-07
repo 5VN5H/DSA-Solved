@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -136,6 +137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
