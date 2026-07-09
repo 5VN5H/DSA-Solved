@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/5VN5H/DSA-Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
@@ -30,6 +31,7 @@
 | [0022-generate-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/5VN5H/DSA-Solved/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -155,5 +158,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
