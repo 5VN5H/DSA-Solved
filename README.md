@@ -40,6 +40,7 @@
 | [0051-n-queens](https://github.com/5VN5H/DSA-Solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/5VN5H/DSA-Solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1021-remove-outermost-parentheses) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
