@@ -18,11 +18,13 @@
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -55,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
