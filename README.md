@@ -57,6 +57,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -96,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
@@ -123,6 +125,7 @@
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
+| [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/5VN5H/DSA-Solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1021-remove-outermost-parentheses) |
