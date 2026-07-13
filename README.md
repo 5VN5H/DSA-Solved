@@ -221,4 +221,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
