@@ -204,6 +204,7 @@
 | [0098-validate-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -244,6 +247,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
