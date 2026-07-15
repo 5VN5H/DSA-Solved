@@ -71,6 +71,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 ## Greedy
 |  |
 | ------- |
@@ -216,11 +218,13 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
@@ -256,5 +260,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
