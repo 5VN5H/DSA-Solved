@@ -38,6 +38,7 @@
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -251,4 +253,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
