@@ -208,6 +208,7 @@
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5VN5H/DSA-Solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 ## Greedy
 |  |
@@ -219,12 +220,14 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/5VN5H/DSA-Solved/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
@@ -263,4 +266,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
