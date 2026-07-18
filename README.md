@@ -28,6 +28,7 @@
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/5VN5H/DSA-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,4 +288,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
