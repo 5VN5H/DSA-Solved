@@ -241,6 +241,7 @@
 | [0733-flood-fill](https://github.com/5VN5H/DSA-Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Greedy
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0210-course-schedule-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
@@ -341,6 +344,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/5VN5H/DSA-Solved/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Number Theory
 |  |
 | ------- |
