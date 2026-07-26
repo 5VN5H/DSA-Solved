@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/5VN5H/DSA-Solved/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
@@ -160,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
