@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -200,6 +202,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 ## Recursion
