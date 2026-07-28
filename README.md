@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/5VN5H/DSA-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/5VN5H/DSA-Solved/tree/master/0733-flood-fill) |
