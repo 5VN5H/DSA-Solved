@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/5VN5H/DSA-Solved/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
@@ -125,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +192,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -370,4 +374,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
