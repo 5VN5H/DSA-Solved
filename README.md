@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/5VN5H/DSA-Solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0045-jump-game-ii) |
@@ -215,6 +216,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
