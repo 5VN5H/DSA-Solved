@@ -181,6 +181,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/5VN5H/DSA-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0045-jump-game-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Breadth-First Search
 |  |
 | ------- |
