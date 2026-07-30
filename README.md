@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0542-01-matrix) |
