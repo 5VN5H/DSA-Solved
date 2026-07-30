@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/5VN5H/DSA-Solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/5VN5H/DSA-Solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/5VN5H/DSA-Solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/5VN5H/DSA-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/5VN5H/DSA-Solved/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/5VN5H/DSA-Solved/tree/master/0200-number-of-islands) |
