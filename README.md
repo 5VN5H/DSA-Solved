@@ -153,6 +153,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/5VN5H/DSA-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/5VN5H/DSA-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/5VN5H/DSA-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +302,7 @@
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
