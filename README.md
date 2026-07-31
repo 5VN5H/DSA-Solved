@@ -36,6 +36,7 @@
 | [0733-flood-fill](https://github.com/5VN5H/DSA-Solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/5VN5H/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
@@ -146,6 +148,7 @@
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/5VN5H/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
