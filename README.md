@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/5VN5H/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/5VN5H/DSA-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/5VN5H/DSA-Solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
@@ -97,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/5VN5H/DSA-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
