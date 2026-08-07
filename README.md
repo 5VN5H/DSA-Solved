@@ -90,6 +90,7 @@
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/5VN5H/DSA-Solved/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/5VN5H/DSA-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 ## Memoization
