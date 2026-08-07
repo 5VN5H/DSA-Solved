@@ -169,6 +169,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -260,6 +261,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
