@@ -249,6 +249,7 @@
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/5VN5H/DSA-Solved/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/5VN5H/DSA-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -268,6 +269,7 @@
 | [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/5VN5H/DSA-Solved/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
