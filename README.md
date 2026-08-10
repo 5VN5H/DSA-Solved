@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/5VN5H/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/5VN5H/DSA-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -150,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
@@ -189,6 +191,7 @@
 | [0013-roman-to-integer](https://github.com/5VN5H/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
