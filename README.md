@@ -38,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/5VN5H/DSA-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/5VN5H/DSA-Solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
