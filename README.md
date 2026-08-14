@@ -118,6 +118,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -459,6 +461,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 ## Game Theory
@@ -469,4 +472,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/5VN5H/DSA-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
