@@ -22,6 +22,7 @@
 | [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5VN5H/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
