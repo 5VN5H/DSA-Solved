@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/5VN5H/DSA-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0040-combination-sum-ii) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
