@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
@@ -317,6 +318,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
@@ -481,6 +483,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
