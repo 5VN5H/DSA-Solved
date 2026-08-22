@@ -294,6 +294,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/5VN5H/DSA-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/5VN5H/DSA-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
