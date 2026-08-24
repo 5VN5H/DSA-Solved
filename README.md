@@ -202,6 +202,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/5VN5H/DSA-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
