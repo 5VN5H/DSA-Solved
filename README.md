@@ -52,6 +52,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/5VN5H/DSA-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/5VN5H/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0295-find-median-from-data-stream](https://github.com/5VN5H/DSA-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/5VN5H/DSA-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,10 +208,12 @@
 | [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/5VN5H/DSA-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
+| [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 ## Simulation
 |  |
 | ------- |
