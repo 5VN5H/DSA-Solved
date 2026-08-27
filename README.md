@@ -80,6 +80,7 @@
 | [0070-climbing-stairs](https://github.com/5VN5H/DSA-Solved/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/5VN5H/DSA-Solved/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5VN5H/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/5VN5H/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
@@ -96,6 +97,7 @@
 | [0051-n-queens](https://github.com/5VN5H/DSA-Solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/5VN5H/DSA-Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/5VN5H/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
@@ -231,6 +233,7 @@
 | [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/5VN5H/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/5VN5H/DSA-Solved/tree/master/0383-ransom-note) |
