@@ -386,6 +386,7 @@
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -486,6 +488,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Shortest Path
 |  |
 | ------- |
