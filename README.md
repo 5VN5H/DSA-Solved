@@ -58,6 +58,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/5VN5H/DSA-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/5VN5H/DSA-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/5VN5H/DSA-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/5VN5H/DSA-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -395,6 +396,7 @@
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/5VN5H/DSA-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
