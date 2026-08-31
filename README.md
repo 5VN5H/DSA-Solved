@@ -217,6 +217,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/5VN5H/DSA-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/5VN5H/DSA-Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
 |  |
 | ------- |
