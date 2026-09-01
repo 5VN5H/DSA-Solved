@@ -64,6 +64,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/5VN5H/DSA-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/5VN5H/DSA-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/5VN5H/DSA-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -362,6 +365,7 @@
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -421,6 +425,7 @@
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/5VN5H/DSA-Solved/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
