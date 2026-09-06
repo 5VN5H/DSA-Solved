@@ -88,6 +88,7 @@
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
@@ -154,6 +155,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/5VN5H/DSA-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/5VN5H/DSA-Solved/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/5VN5H/DSA-Solved/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/5VN5H/DSA-Solved/tree/master/0901-online-stock-span) |
@@ -250,6 +252,7 @@
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/5VN5H/DSA-Solved/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -400,6 +403,7 @@
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/5VN5H/DSA-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/5VN5H/DSA-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -541,4 +545,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/5VN5H/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
