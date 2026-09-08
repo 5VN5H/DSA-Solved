@@ -61,6 +61,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/5VN5H/DSA-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/5VN5H/DSA-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/5VN5H/DSA-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/5VN5H/DSA-Solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/5VN5H/DSA-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -143,6 +144,7 @@
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/5VN5H/DSA-Solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0054-spiral-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/5VN5H/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/5VN5H/DSA-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/5VN5H/DSA-Solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## String
 |  |
 | ------- |
