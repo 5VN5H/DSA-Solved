@@ -49,6 +49,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/5VN5H/DSA-Solved/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/5VN5H/DSA-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
@@ -143,6 +144,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/5VN5H/DSA-Solved/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/5VN5H/DSA-Solved/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/5VN5H/DSA-Solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
