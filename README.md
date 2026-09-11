@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/5VN5H/DSA-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/5VN5H/DSA-Solved/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0033-search-in-rotated-sorted-array) |
@@ -329,6 +330,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/5VN5H/DSA-Solved/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
@@ -408,6 +410,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/5VN5H/DSA-Solved/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/5VN5H/DSA-Solved/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
