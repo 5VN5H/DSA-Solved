@@ -46,6 +46,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/5VN5H/DSA-Solved/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/5VN5H/DSA-Solved/tree/master/1004-max-consecutive-ones-iii) |
@@ -278,6 +279,7 @@
 | [0347-top-k-frequent-elements](https://github.com/5VN5H/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -332,6 +334,7 @@
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/5VN5H/DSA-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/5VN5H/DSA-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
