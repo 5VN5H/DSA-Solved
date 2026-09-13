@@ -249,6 +249,7 @@
 | [0014-longest-common-prefix](https://github.com/5VN5H/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/5VN5H/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/5VN5H/DSA-Solved/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/5VN5H/DSA-Solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/5VN5H/DSA-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
