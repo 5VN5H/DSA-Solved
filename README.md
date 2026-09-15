@@ -114,6 +114,7 @@
 | [0136-single-number](https://github.com/5VN5H/DSA-Solved/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/5VN5H/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/5VN5H/DSA-Solved/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/5VN5H/DSA-Solved/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/5VN5H/DSA-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
@@ -201,6 +202,7 @@
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/5VN5H/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/5VN5H/DSA-Solved/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/5VN5H/DSA-Solved/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
@@ -257,6 +259,7 @@
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/5VN5H/DSA-Solved/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/5VN5H/DSA-Solved/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/5VN5H/DSA-Solved/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/5VN5H/DSA-Solved/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/5VN5H/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
@@ -279,6 +282,7 @@
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/5VN5H/DSA-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/5VN5H/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/5VN5H/DSA-Solved/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
