@@ -48,6 +48,7 @@
 | [0739-daily-temperatures](https://github.com/5VN5H/DSA-Solved/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/5VN5H/DSA-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/5VN5H/DSA-Solved/tree/master/0778-swim-in-rising-water) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/5VN5H/DSA-Solved/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/5VN5H/DSA-Solved/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/5VN5H/DSA-Solved/tree/master/0992-subarrays-with-k-different-integers) |
