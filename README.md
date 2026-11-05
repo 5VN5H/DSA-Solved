@@ -61,6 +61,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 | [1732-find-the-highest-altitude](https://github.com/5VN5H/DSA-Solved/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/5VN5H/DSA-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/5VN5H/DSA-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@
 | [0542-01-matrix](https://github.com/5VN5H/DSA-Solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/5VN5H/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/5VN5H/DSA-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/5VN5H/DSA-Solved/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
