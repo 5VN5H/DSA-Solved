@@ -67,6 +67,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/5VN5H/DSA-Solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/5VN5H/DSA-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/5VN5H/DSA-Solved/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/5VN5H/DSA-Solved/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/5VN5H/DSA-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -222,6 +223,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/5VN5H/DSA-Solved/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/5VN5H/DSA-Solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/5VN5H/DSA-Solved/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/5VN5H/DSA-Solved/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/5VN5H/DSA-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -296,6 +298,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/5VN5H/DSA-Solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/5VN5H/DSA-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/5VN5H/DSA-Solved/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/5VN5H/DSA-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/5VN5H/DSA-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
