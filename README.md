@@ -207,6 +207,7 @@
 | [0037-sudoku-solver](https://github.com/5VN5H/DSA-Solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/5VN5H/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/5VN5H/DSA-Solved/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/5VN5H/DSA-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/5VN5H/DSA-Solved/tree/master/0242-valid-anagram) |
@@ -239,6 +240,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/5VN5H/DSA-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/5VN5H/DSA-Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -356,6 +358,7 @@
 | [0031-next-permutation](https://github.com/5VN5H/DSA-Solved/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/5VN5H/DSA-Solved/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/5VN5H/DSA-Solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/5VN5H/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/5VN5H/DSA-Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -600,4 +603,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/5VN5H/DSA-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
