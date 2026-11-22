@@ -241,6 +241,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/5VN5H/DSA-Solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/5VN5H/DSA-Solved/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/5VN5H/DSA-Solved/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/5VN5H/DSA-Solved/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/5VN5H/DSA-Solved/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/5VN5H/DSA-Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -368,6 +369,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/5VN5H/DSA-Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/5VN5H/DSA-Solved/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/5VN5H/DSA-Solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/5VN5H/DSA-Solved/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/5VN5H/DSA-Solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/5VN5H/DSA-Solved/tree/master/0509-fibonacci-number) |
